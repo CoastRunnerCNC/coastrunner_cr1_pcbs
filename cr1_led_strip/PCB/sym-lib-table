@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LEDIO-rescue")(type "KiCad")(uri "${KIPRJMOD}/LEDIO-rescue.kicad_sym")(options "")(descr ""))
+)

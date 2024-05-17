@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GrBLDC-rescue")(type "KiCad")(uri "${KIPRJMOD}/GrBLDC-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "a4915-jts")(type "Legacy")(uri "${KIPRJMOD}/a4915-jts.lib")(options "")(descr ""))
+  (lib (name "drv8818")(type "Legacy")(uri "${KIPRJMOD}/Custom Footprints/drv8818.lib")(options "")(descr ""))
+  (lib (name "atmega64m1-a")(type "Legacy")(uri "${KIPRJMOD}/atmega64m1-a.lib")(options "")(descr ""))
+)
