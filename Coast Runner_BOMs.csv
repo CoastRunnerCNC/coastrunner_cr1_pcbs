@@ -36,3 +36,11 @@ P14,1,CONN_01X03,,"Connector,Terminal Block,Combicon,5mm,0°",Phoenix ,1987737
 "U1, U2, U3, U4",4,DRV8818,28-HTSSOP,"IC,Driver,Half Bridge,28-HTSSOP",Texas Instruments,DRV8818PWPR
 U5,1,A4910,LQFP_48,"IC,Motor Driver,CMOS,Serial,48-LQFP-EP (7x7)",Allegro,A4910KJPTR-T
 Y1,1,16MHz,SMD_2016-4pin_2.0x1.6mm,"Crystal,16.0000MHz,12pF,SMD",ECS Inc,ECS-160-12-37B-CTN-TR
+,,,,,,
+LED BOARD,,,,,,
+Component Count:,9,,,,,
+Reference Designator,Quantity,Value,Footprint,Description,Manufacturer,MFPN
+J2,1,,,"Connector,Header,Right Angle,2.54mm,01x05,15.0uin Gold,Contact Mating Length=6.20mm",Molex,22288052
+J1,1,,,"Connector,DC Power,Horizontal,Shielded,2.5x6.0mm",CUI Devices,PJ-076B
+D1,1,,,"LED,SM,R/A,Green,571nm,2V,0603",Lite-On,LTST-S270KGKT
+"D2, D3, D4, D5, D6, D7",6,,,"LED Lighting WL-SWTP White, Neutral 4000K 3V 20mA 120° 1206 (3014 Metric)",Wurth Elektronik,158301240
