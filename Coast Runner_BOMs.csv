@@ -1,0 +1,38 @@
+Component Count:,215,,,,,
+Reference Designator,Quantity,Value,Footprint,Description,Manufacturer,MFPN
+"C1, C2, C3, C4, C5, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C37, C38, C40, C41, C42, C43, C58, C67, C72, C73, C74, C77, C80, C82, C87, C88",43,220n,SMD:C_0603,"Capacitor, 0.220uF,x7r,50v,+/-10%, 0603",Samsung,CL10B224KB8VPNC
+"C6, C7, C8, C9, C10, C11, C12, C13, C84, C85, C86",11,680p,SMD:C_0603,"Capacitor,680pF,50V,cog,0603,5%",Samsung,CL10C681JB8NNNC
+"C36, C39",2,12p,SMD:C_0603,"Capacitor,12pF,cog,50v,0603,5%",Samsung,CL10C120JB8NNNC
+"C44, C49, C52, C53, C54, C55, C56, C59, C60, C61, C62, C64, C65, C66, C89",15,10u,SMD:C_1206,"Capacitor,10uF,x7r,50v,1206,10%",Samsung,CL31B106KBHNNNE
+"C45, C46, C47, C48, C50, C79",6,33n,SMD:C_0603,"Capacitor,0.033uf,x7r,50v,10%,0603",Samsung,CL10B333KB8WPNC
+"C51, C57, C63",3,330u,SMD:c_elec_10x10.5,"Capacitor,Electrolytic,330µF,20%,35V,10x10.5",Nichicon,UCL1V331MNL1GS
+"C68, C69, C70, C71",4,100u,SMD:c_elec_6.3x7.7,"Capacitor,Electrolytic,100µF,20%,35V,6.3x7.7",Nichicon,UCL1V101MCL6GS
+D1,1,LM4040,SOT-23-3,IC VREF SHUNT 1% SOT23-3,Microchip Tech,LM4040DYM3-2.5-TR
+"D2, D3",2,6V Zener,SOD-123,DIODE ZENER 6V 500MW SOD123,Diodes Inc,MMSZ5233B-7-F
+D4,1,D_Zener,SMD:D_SMB,DIODE ZENER 30V 1.5W DO214AA,Vishay,SMZJ3800B-E3/52
+"HS1, HS2",2,Heat_Sink,,Heat Sink TO-252 (DPak) Aluminum 0.8W @ 30°C Top Mount,Aavid,573100D00000G
+IC1,1,ATMEGA16M1-A,TQFP-32,"IC,MCU,8Bit,32KB,Flash,32TQFP",Microchip Tech,ATMEGA32M1-AUR
+J1,1,Conn_02x03,,"Connector,Header,2.54mm,02x03,Vertical,15.0uin Gold,Contact Mating Length=8.13mm",Molex,10977066
+J6,1,Conn_02x02,,"Connector,Header,2.54mm,02x02,Vertical",Sullins,PRPC002DFAN-RC
+P1,1,CONN_6,,"Connector,Header,2.54mm,01x06,Vertical,15.0uin Gold,Contact Mating Length=6.10mm",Molex,22284063
+"P2, P9, P10",3,CONN_8,,"Connector,Header,2.54mm,01x08,Vertical,15.0uin Gold,Contact Mating Length=6.10mm",Molex,22284083
+"P3, P6, P7",3,CONN_01X04,,"Connector,Header,Male,Shrouded 1-wall,2.65mm,Vertical",Sullins,SWR25X-NRTC-S04-ST-BA
+"P4, P15",2,CONN_01X03,,"Connector,Header,2.54mm,01x03,Vertical,15.0uin Gold,Contact Mating Length=8.13mm",Molex,22284034
+P5,1,CONN_01X05,,"Connector,Header,2.54mm,01x05,Vertical,15.0uin Gold,Contact Mating Length=8.13mm",Molex,22285054
+P8,1,CONN_9,,"Connector,Header,2.54mm,01x09,Vertical,15.0uin Gold,Contact Mating Length=8.13mm",Molex,22284094
+P11,1,CONN_01X02,,"Connector,header,2.54mm,vertical,1x2,15.0uin Gold,Contact Mating Length=8.13mm",Molex,22284024
+P12,1,CONN_01X03,,"Connector,Terminal Block,Combicon,3.5mm,45°",Phoenix ,1988969
+P14,1,CONN_01X03,,"Connector,Terminal Block,Combicon,5mm,0°",Phoenix ,1987737
+"Q1, Q2, Q3, Q4, Q5, Q6",6,IRF5406,8-PQFN,"Mosfet,N-Channel,60V,8-PQFN",Infineon,IRFH5406TRPBF
+"R1, R2, R20, R29, R33, R34, R53, R61, R76, R77, R78, R79, R80, R81, R82, R84",16,1.47k,Resistors_SMD:R_0603,"Resistor,1.47k,1%, 1/10W 0603",Yageo,RC0603FR-071K47L
+"R3, R4, R5, R6, R7, R8, R9, R10, R21, R22",10,56k,Resistors_SMD:R_0603,"Resistor,56k,1%,100mw,0603,100ppm",Samsung,RC1608F563CS
+"R11, R12, R13, R14, R15, R16, R17, R18",8,0.09,Resistors_SMD:R_1206,"Resistor,Current Sense,91mOhms,1%,0.5W,1206",TE Connectivity,RLP73N2BR091FTD
+"R19, R25, R26, R27, R30, R31, R32, R54, R55, R56, R59, R60, R63, R83",14,1k,Resistors_SMD:R_0603,"Resistor,1K OHM 1% 1/10W 0603",Samsung,RC1608F102CS
+"R23, R39, R41, R42, R44, R46, R47, R48, R52, R64, R68, R70, R72",13,47,Resistors_SMD:R_0603,"Resistor,47,1%, 1/10W 0603",Samsung,RC1608F470CS
+"R24, R28, R35, R36, R37, R62, R65, R66",8,DNP,Resistors_SMD:R_0603,"Resistor, NOT POPULATED",,
+"R38, R57, R58",3,0.005,Resistors_SMD:R_1206,"Resistor,Current Sense,5mOhms,1%,1W,1206",Ohmite,LVT12R0050FER
+"R40, R43, R45, R49, R50, R51",6,470k,Resistors_SMD:R_0603,"Resistor,470k,1%, 1/10W 0603",Samsung,RC1608F474CS
+"R67, R69, R71, R73, R74, R75",6,24.3k,Resistors_SMD:R_0603,"Resistor,24.3k,1%,1\10W, 0603",Yageo,RC0603FR-0724K3L
+"U1, U2, U3, U4",4,DRV8818,28-HTSSOP,"IC,Driver,Half Bridge,28-HTSSOP",Texas Instruments,DRV8818PWPR
+U5,1,A4910,LQFP_48,"IC,Motor Driver,CMOS,Serial,48-LQFP-EP (7x7)",Allegro,A4910KJPTR-T
+Y1,1,16MHz,SMD_2016-4pin_2.0x1.6mm,"Crystal,16.0000MHz,12pF,SMD",ECS Inc,ECS-160-12-37B-CTN-TR
